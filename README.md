@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sisco999 I am a 36 Years old Sucessfull Chef entrepreuneur (French) willing to undertand and extend knowledge in coding/ block-chain/Web3 industry.
+- 👋 Hi, I’m @Sisco999 I am a 36 Years old  Chef entrepreuneur (French) willing to undertand and extend knowledge in coding/ block-chain/Web3 industry.
 - 👀 I’m interested in block chain and smart contracts. 
 - 🌱 I’m currently learning Solidity and Python.
 - 💞️ I’m looking to collaborate on anything
